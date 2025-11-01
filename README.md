@@ -1,4 +1,2 @@
 # DSC180A-Methodology-3
-
-Suchit Bhayani
-Ryan Cao
+Suchit Bhayani and Ryan Cao
